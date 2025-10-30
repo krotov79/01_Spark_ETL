@@ -19,3 +19,14 @@ A preview of rows and day-level aggregate coverage
 
 ## Daily Revenue & Tips (Jan 2023)
 ![Daily Revenue & Tips](assets/daily_revenue_tips.png)
+
+## Quickstart
+Clone the repo and run the full Spark ETL pipeline in one minute:
+
+```bash
+git clone https://github.com/krotov79/01_Spark_ETL.git
+cd 01_Spark_ETL
+make all
+
+Outputs appear under data_parquet/, and the visualization is saved in
+assets/daily_revenue_tips.png.
