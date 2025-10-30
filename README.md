@@ -16,3 +16,6 @@ Date range and year–month coverage for pickup_ts
 
 A preview of rows and day-level aggregate coverage
 
+
+## Daily Revenue & Tips (Jan 2023)
+![Daily Revenue & Tips](assets/daily_revenue_tips.png)
